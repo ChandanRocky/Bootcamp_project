@@ -1,0 +1,8 @@
+Output:
+
+enter the string that you want to encrypt
+chandan
+You have entered:
+chandan
+Your resulting hash code is :
+b18f2dfcfc1c94c17e43419b7e8f788b
